@@ -1,2 +1,10 @@
 # SlackIntegration_uploadPDF
-This is a small code section, that you can use for creation a Slack integration that uploads a PDF file directly into a Slack channel, this has been made by using Google Appscript, Google Drive and Google Docs
+This is a simple Slack Integration using Google app scripts
+
+It will send your PDF file, from your Google Drive folder as a Slack message
+
+You will need some previous information such as a Google Doc ID, a Google Folder ID and a Slack OAuth
+Token that you can get inside your Slack App settings
+
+Your Slack app will need file:read and file:write permissions
+

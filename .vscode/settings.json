@@ -1,0 +1,15 @@
+{
+	"spellright.language": [
+		"en"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"plaintext"
+	],
+	"[git-commit]": {
+		"editor.wordWrap": "wordWrapColumn"
+	},
+	"editor.wordWrapColumn": 100,
+	"editor.wordWrap": "wordWrapColumn"
+}
